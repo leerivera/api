@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/leerivera/api/issues"
   },
-  "homepage": "https://github.com/leerivera/api#readme"
+  "homepage": "https://github.com/leerivera/api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
