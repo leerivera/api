@@ -7,5 +7,5 @@ app.listen(3000, function(){
 })
 
 app.get('/', (res, req) =>{
-    res.send (console.log("we in here"))
+    res.send(console.log("we in here"))
 })
